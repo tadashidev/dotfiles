@@ -1,0 +1,8 @@
+cc.arduino.IDE2
+com.transmissionbt.Transmission
+io.mrarm.mcpelauncher
+net.ankiweb.Anki
+org.blender.Blender
+org.keepassxc.KeePassXC
+org.onlyoffice.desktopeditors
+org.upscayl.Upscayl
