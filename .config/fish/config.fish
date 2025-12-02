@@ -3,6 +3,7 @@ if status is-interactive
 
     abbr --add ls eza
     abbr --add tree eza -T
+    abbr --add vim nvim
 
     abbr --command git lg log --oneline --decorate --graph
     abbr --add wip "git add .; and git commit --no-verify --message 'wip'"

@@ -1,0 +1,44 @@
+# Based on: <https://gist.github.com/w3dg/0c8c6885c222219e9b145d4b26d07bec>.
+
+color-link default "#575279,#faf4ed"
+color-link comment "#9893a5"
+
+color-link identifier "#d7827e"
+color-link identifier.class "#d7827e"
+color-link identifier.var "#d7827e"
+
+color-link constant "#ea9d34"
+color-link constant.number "#ea9d34"
+color-link constant.string "#56949f"
+
+color-link symbol "#907aa9"
+color-link symbol.brackets "#797593"
+color-link symbol.tag "#d7827e"
+
+color-link type "#d7827e"
+color-link type.keyword "#ea9d34"
+
+color-link special "#907aa9"
+color-link statement "#907aa9"
+color-link preproc "#907aa9"
+
+color-link underlined "#56949f"
+color-link error "bold #b4637a"
+color-link todo "bold #ea9d34"
+
+color-link diff-added "#56949f"
+color-link diff-modified "#ea9d34"
+color-link diff-deleted "#b4637a"
+
+color-link gutter-error "#b4637a"
+color-link gutter-warning "#ea9d34"
+
+color-link statusline "#faf4ed,#575279"
+color-link tabbar "#575279,#f2e9e1"
+color-link indent-char "#9893a5"
+color-link line-number "#9893a5"
+color-link current-line-number "#d7827e"
+
+color-link cursor-line "#f4ede8"
+color-link color-column "#dfdad9"
+color-link type.extended "default"
