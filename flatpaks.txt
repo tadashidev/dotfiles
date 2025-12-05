@@ -1,8 +1,12 @@
 cc.arduino.IDE2
+com.dec05eba.gpu_screen_recorder
+com.microsoft.Edge
 com.transmissionbt.Transmission
+io.github.ungoogled_software.ungoogled_chromium
 io.mrarm.mcpelauncher
 net.ankiweb.Anki
 org.blender.Blender
 org.keepassxc.KeePassXC
+org.mozilla.firefox
 org.onlyoffice.desktopeditors
 org.upscayl.Upscayl
