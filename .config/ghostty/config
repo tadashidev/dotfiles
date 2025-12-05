@@ -1,7 +1,9 @@
 theme = Rose Pine Dawn
 
-font-family = "IosevkaTermSlab Nerd Font"
-font-size = 22
+font-family = "Monaspace Neon Var"
+font-size = 21
+
+font-feature = "calt, liga, ss01, ss02, ss03, ss04, ss05, ss06, ss07, ss08, ss09, ss10, cv03, cv31, cv32, cv62"
 
 cursor-style = underline
 shell-integration-features = no-cursor
@@ -9,16 +11,10 @@ shell-integration-features = no-cursor
 mouse-hide-while-typing = true
 
 window-padding-x=4
-# Avoid: <https://github.com/ghostty-org/ghostty/discussions/3941>.
+# Avoid: <https://github.com/ghostty-org/ghostty/discussions/3941>
 window-padding-y=0
 window-padding-balance = true
 window-padding-color = extend
 
 linux-cgroup = always
 linux-cgroup-hard-fail = false
-
-keybind = alt+n=goto_tab:1
-keybind = alt+e=goto_tab:2
-keybind = alt+i=goto_tab:3
-keybind = alt+o=goto_tab:4
-keybind = alt+escape=goto_split:next
